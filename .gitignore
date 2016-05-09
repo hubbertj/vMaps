@@ -9,7 +9,7 @@
 *.perspectivev3
 *.xcuserstate
 vMaps.xcworkspace/
-vMaps.xcodeproj/
+/vMaps.xcodeproj
 xcuserdata/
 # compiled source #
 ###################
